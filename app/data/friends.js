@@ -1,5 +1,5 @@
 // Array of friends 
-var friendsArray = [{
+var friends = [{
     "name": "Miss Alma LeFay Peregrine",
     "photo": "https://s-media-cache-ak0.pinimg.com/736x/3a/1a/f6/3a1af67d3cb7260ac350d8d6e758a4ea.jpg",
     "scores": [5,5,5,5,5,5,5,5,5,5]
@@ -23,4 +23,4 @@ var friendsArray = [{
 }]
 
 // Exports the array
-module.exports = friendsArray; 
+module.exports = friends; 
